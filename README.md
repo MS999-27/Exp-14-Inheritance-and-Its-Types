@@ -100,7 +100,7 @@ int main()
     d.drive();
     return 0;
 }
-```
+
 //MULTILEVEL INHERITANCE
 # include<iostream>
 using namespace std;
@@ -211,15 +211,15 @@ int main(){
 ```
 
 
+
+
 # Output
 ## 1) Single Inheritance
 ![Exp 14 Single Inheritance](https://github.com/user-attachments/assets/6be82ca1-b9a5-4072-a1fa-8be82919059a)
-
 ## 2) Multiple Inheritance
 ![Exp 14 Multiple Inheritance](https://github.com/user-attachments/assets/e6651422-4161-4307-93b4-6186bcbcf156)
 ## 3) Multilevel Inheritance
 ![Exp 14 Multilevel Inheritance](https://github.com/user-attachments/assets/c67bc5d5-f0a5-40a8-9b2b-475c1d35b079)
-
 ## 4) HIERARCHICAL INHERITANCE
 ![Exp 14 Hierarchical Inheritance](https://github.com/user-attachments/assets/0b5560bd-4705-4f6a-9e5d-13d7109cdde1)
 
